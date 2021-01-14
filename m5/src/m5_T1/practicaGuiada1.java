@@ -14,6 +14,7 @@ public class practicaGuiada1 {
 			bw.write(" <head>");
 			bw.newLine();
 			bw.write(" <title>");
+			bw.write(" Codi de la nova branca");
 			bw.newLine();
 			bw.write(" Projecte inicial");
 			bw.newLine();
